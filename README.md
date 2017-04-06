@@ -12,5 +12,5 @@ https://github.com/osmdroid/osmdroid/wiki/How-to-build-osmdroid-from-source
 
 After build the projects, see this page in order to use the OSMMapTilePackager
 https://github.com/osmdroid/osmdroid/tree/master/OSMMapTilePackager
-After have obtained the zip you must move it to the sdcard/osmdroid folder
 
+After have obtained the zip you must move it to the sdcard/osmdroid folder
